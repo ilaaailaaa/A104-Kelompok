@@ -59,13 +59,14 @@
   }
   
   .top-wrapper h1 {
-    font-size: 45px;
+    font-size: 70px;
     letter-spacing: 5px;
     margin-bottom: 10px;
   }
   
   .top-wrapper p {
     margin-bottom: 30px;
+    font-size: 50px
   }
   
   table{
