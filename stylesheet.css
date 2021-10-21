@@ -71,10 +71,9 @@
   table{
       align-content: center;
       display: inline-block;
-  
+      font-size: 50px;
   }
   table a:link, a:visited {
-    font-size: 40px;
     color: white;
     padding: 15px 25px;
     text-align: center;
