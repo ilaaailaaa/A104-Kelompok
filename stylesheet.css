@@ -1,10 +1,8 @@
-
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
-
 }
 body {
   font-family: "Lucida Grande";
@@ -13,15 +11,12 @@ body {
   box-sizing: border-box;
   background-size: cover;
   background-position: center;
-  
 }
-
 header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
   position: fixed;
-
 }
 .quick-links {
 	line-height: 65px;
@@ -50,43 +45,34 @@ header {
   width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
-  
 }
-
 .top-wrapper {
   padding: 100px 0 120px 0;
   color: white;
   text-align: center;
 }
-
 .top-wrapper h1 {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
-
 .top-wrapper p {
   margin-bottom: 35px;
 }
-
 table{
-	align-content: center;
-	display: inline-block;
-
+  align-content: center;
+  display: inline-block;
 }
 table a:link, a:visited {
- 
   color: white;
   padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
-
 td a:hover, a:active {
   background-color: red;
 }
-
 footer{
   display: grid;
   position: fixed;
@@ -97,7 +83,6 @@ footer{
   opacity: 0.9;
   padding-top: 20px;
   padding-bottom: 20px;
-
 }
 .wrapper .button{
   display: inline-flex;
@@ -114,7 +99,6 @@ footer{
 }
 .wrapper .button:hover{
   width: 200px;
- 
 }
 .wrapper .button .icon{
   display: inline-block;
